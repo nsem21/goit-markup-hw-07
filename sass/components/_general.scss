@@ -68,7 +68,7 @@ img {
 .client-base,
 .impressum,
 .button-list,
-.works {
+.gallery {
     @extend %style-reset;
     @extend %list-reset;
 }
@@ -82,8 +82,8 @@ img {
 .member_name,
 .member_position,
 .join,
-.works-title,
-.works-type,
+.work_title,
+.work_type,
 .modal_title {
     @extend %style-reset;
 }
